@@ -3,13 +3,13 @@ num2=float(input("Enter your second number: "))
 print("Here are output of your number")
 #adding 2 numbers
 num3=num1+num2
-print("Addintion: ", num3)
+print("Addition: ", num3)
 #substraction of 2 numbers
 num3=num1-num2
-print("Subsutraction: ", num3)
+print("Subtraction: ", num3)
 #multiplication of 2 numbers
 num3=num1*num2
-print("Multiplcation: ", num3)
+print("Multiplication: ", num3)
 #division of 2 numbers
 num3=num1/num2
 print("Division: ", num3)
